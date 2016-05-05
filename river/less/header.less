@@ -1,0 +1,48 @@
+@import 'buttons.less';
+@import 'images.less';
+
+.navbar {
+  background-color: black;
+  color: @c_white;
+  height: 80px;
+  width: 100%;
+}
+
+.navbar-content {
+  box-sizing: border-box;
+  display: flex;
+  margin: auto;
+  max-width: 1200px;
+  padding-left: 207px;
+  position: relative;
+}
+
+.logo {
+  background-image: @logo;
+  flex-grow: 1;
+  height: 188px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 207px;
+}
+
+.main-nav {
+  align-items: center;
+  display: flex;
+  flex-grow: 5;
+
+  .plantel-button {
+    &:extend(.nav-button);
+  }
+  .escalas-button {
+    &:extend(.nav-button);
+  }    
+}
+
+.user-button {
+  &:extend(.nav-button);
+  font-size: 16px;
+  flex-grow: 1;
+  justify-content: flex-end;
+}

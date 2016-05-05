@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="24px" viewBox="0 0 20 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.1 (28215) - http://www.bohemiancoding.com/sketch -->
+    <title>DJ_icon_valMarca</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02_Datos-Jugador_A" transform="translate(-202.000000, -364.000000)">
+            <g id="ValMarca" transform="translate(203.000000, 355.000000)">
+                <g id="DJ_icon_valMarca" transform="translate(0.000000, 10.000000)">
+                    <path d="M5.25,0.25 L12.75,0.25" id="Line" stroke="#808080" stroke-width="1.5" stroke-linecap="round"></path>
+                    <path d="M6.75,1 L6.75,1.96240234" id="Line-Copy-13" stroke="#808080" stroke-width="1.5" stroke-linecap="round"></path>
+                    <path d="M11.25,1 L11.25,1.96240234" id="Line-Copy-14" stroke="#808080" stroke-width="1.5" stroke-linecap="round"></path>
+                    <rect id="Rectangle-11" stroke="#808080" stroke-width="1.5" x="0" y="2.5" width="18" height="19.3846154" rx="1.25"></rect>
+                    <circle id="Oval-15" stroke="#808080" stroke-width="1.5" cx="5.375" cy="8.375" r="1.875"></circle>
+                    <path d="M6.25,15.75 L3.5,18.5" id="Line-Copy-13" stroke="#808080" stroke-width="1.5" stroke-linecap="round"></path>
+                    <path d="M6.25,18.5 L3.5,15.75" id="Line-Copy-15" stroke="#808080" stroke-width="1.5" stroke-linecap="round"></path>
+                    <path d="M9.25,17 C9.43421053,16.9107143 10.8157895,15.9285714 11,15.75" id="Path-48" stroke="#808080" stroke-width="1.5" stroke-linecap="round"></path>
+                    <path d="M11.948328,13.9113716 C12.1325385,13.8220859 13.5141174,12.839943 13.698328,12.6613716" id="Path-48-Copy" stroke="#808080" stroke-width="1.5" stroke-linecap="round" transform="translate(12.823328, 13.286372) rotate(-39.000000) translate(-12.823328, -13.286372) "></path>
+                    <path d="M12.1113879,9.69692018 C12.2955984,9.60763447 13.6771774,8.62549161 13.8613879,8.44692018" id="Path-48-Copy-2" stroke="#808080" stroke-width="1.5" stroke-linecap="round" transform="translate(12.986388, 9.071920) rotate(-59.000000) translate(-12.986388, -9.071920) "></path>
+                    <path d="M11.7539821,5.36118058 C12.0029483,5.02922564 12.4065583,5.02916703 12.6555684,5.36118058 L14.5597377,7.90007294 C14.8087039,8.23202788 14.6763103,8.50113052 14.2537375,8.50113052 L10.155813,8.50113052 C9.73784755,8.50113052 9.60080264,8.23208649 9.8498128,7.90007294 L11.7539821,5.36118058 Z" id="Triangle-3" fill="#808080" transform="translate(12.205291, 6.806661) rotate(-24.000000) translate(-12.205291, -6.806661) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

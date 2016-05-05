@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="82px" height="62px" viewBox="0 0 82 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.1 (28215) - http://www.bohemiancoding.com/sketch -->
+    <title>PER_faltasReciv</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02_Performance_Player" transform="translate(-1210.000000, -935.000000)" stroke="#5A5A5C">
+            <g id="Injury" transform="translate(730.000000, 918.000000)">
+                <g id="faltas-recibidas" transform="translate(445.212766, 0.000000)">
+                    <g id="PER_faltasReciv" transform="translate(36.702128, 16.000000)">
+                        <g id="Position" transform="translate(18.510638, 3.268817)">
+                            <ellipse id="Oval-14" stroke-width="3.19148936" cx="8.61702128" cy="6.86451613" rx="5.42553191" ry="6.86451613"></ellipse>
+                            <path d="M9.00143523,16.3531661 C9.00143523,16.3531661 17.6184565,16.0262843 16.6610097,19.2951016 C16.0227118,25.5058542 13.7886693,45.7725209 13.4695203,48.3875747 C13.1503714,51.0026284 10.9163288,52.3101553 8.68228629,52.3101553 C6.44824374,52.3101553 3.25675437,51.3295102 3.25675437,48.3875747 C2.93760544,45.1187575 0.703562886,23.2176822 0.0652650132,19.2951016 C-0.892181795,16.0262843 9.00143523,16.3531661 9.00143523,16.3531661 Z" id="Path-27" stroke-width="3.19148936"></path>
+                            <path d="M0.957446809,29.0924731 L15.6382979,29.0924731" id="Line" stroke-width="1.91489362" stroke-linecap="square"></path>
+                            <path d="M8.61702128,38.2451613 L8.61702128,51.9741935" id="Line" stroke-width="1.91489362" stroke-linecap="round"></path>
+                        </g>
+                        <path d="M0.319148936,44.455914 L15.6382979,44.455914" id="Line" stroke-width="3.82978723" stroke-linecap="round"></path>
+                        <path d="M4.46808511,60.4212289 L17.1682352,51.6473118" id="Line-Copy-23" stroke-width="3.82978723" stroke-linecap="round"></path>
+                        <path d="M1.91489362,30.0731183 L16.0162446,36.2038157" id="Line-Copy-22" stroke-width="3.82978723" stroke-linecap="round"></path>
+                        <g id="Position-Copy" transform="translate(58.103545, 24.896672) rotate(-315.000000) translate(-58.103545, -24.896672) translate(49.603545, -1.603328)">
+                            <ellipse id="Oval-14" stroke-width="3.19148936" cx="8.61702128" cy="6.86451613" rx="5.42553191" ry="6.86451613"></ellipse>
+                            <path d="M9.00143523,16.3531661 C9.00143523,16.3531661 17.6184565,16.0262843 16.6610097,19.2951016 C16.0227118,25.5058542 13.7886693,45.7725209 13.4695203,48.3875747 C13.1503714,51.0026284 10.9163288,52.3101553 8.68228629,52.3101553 C6.44824374,52.3101553 3.25675437,51.3295102 3.25675437,48.3875747 C2.93760544,45.1187575 0.703562886,23.2176822 0.0652650132,19.2951016 C-0.892181795,16.0262843 9.00143523,16.3531661 9.00143523,16.3531661 Z" id="Path-27" stroke-width="3.19148936"></path>
+                            <path d="M0.957446809,29.0924731 L15.6382979,29.0924731" id="Line" stroke-width="1.91489362" stroke-linecap="square"></path>
+                            <path d="M8.61702128,38.2451613 L8.61702128,51.9741935" id="Line" stroke-width="1.91489362" stroke-linecap="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="62px" height="56px" viewBox="0 0 62 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.1 (28215) - http://www.bohemiancoding.com/sketch -->
+    <title>PER_comp_golConvert</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="14" cy="14" rx="14" ry="14"></ellipse>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="28" height="28" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="05__Compara_Performance" transform="translate(-63.000000, -1252.000000)">
+            <g id="1er" transform="translate(10.000000, 903.000000)">
+                <g id="Tantos-Copy" transform="translate(0.000000, 320.000000)">
+                    <g id="PER_comp_golConvert" transform="translate(83.500000, 57.000000) rotate(-270.000000) translate(-83.500000, -57.000000) translate(58.000000, 28.000000)">
+                        <g id="Goals" transform="translate(11.000000, 15.000000)">
+                            <use id="Oval-6" stroke="#5B5A5F" mask="url(#mask-2)" stroke-width="6" xlink:href="#path-1"></use>
+                            <path d="M11.5027035,27.7779161 C10.0494406,27.5162435 8.67409731,27.0302819 7.41379546,26.3571533 C9.64335153,23.8774583 11,20.5971603 11,17 C11,11.649 7.99795185,6.99916589 3.58620454,4.64284669 C4.54140846,3.58047631 5.65683493,2.66505697 6.89444349,1.93462912 C8.88995531,7.23176537 14.0049185,11 20,11 C22.5937026,11 25.0226681,10.2946769 27.1055565,9.06537088 C27.6527928,10.5180233 27.9654337,12.0856552 27.9972965,13.7220839 C27.1869462,13.5761733 26.3523687,13.5 25.5,13.5 C17.7680135,13.5 11.5,19.7680135 11.5,27.5 C11.5,27.5928526 11.5009039,27.6854941 11.5027035,27.7779161 Z" id="Combined-Shape" fill="#5B5A5F"></path>
+                            <path d="M9.5,30.25 L9.5,42.75" id="Line" stroke="#5B5A5F" stroke-width="3" stroke-linecap="round"></path>
+                            <path d="M14,30.25 L14,38" id="Line-Copy" stroke="#5B5A5F" stroke-width="3" stroke-linecap="round"></path>
+                            <path d="M18.5,30.25 L18.5,35" id="Line-Copy-2" stroke="#5B5A5F" stroke-width="3" stroke-linecap="round"></path>
+                        </g>
+                        <path d="M-3.55271368e-15,21.0049551 C7.04857079,11.8679189 14.5739504,-0.2809851 24,0.00495514686 C32.6274925,0.266671077 43.1257194,12.1641077 50.5222723,21.0049551" id="Path-1841" stroke="#5B5A5F" stroke-width="5" stroke-linecap="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

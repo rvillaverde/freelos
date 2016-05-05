@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="14px" viewBox="0 0 22 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.1 (28215) - http://www.bohemiancoding.com/sketch -->
+    <title>PER_comp_silvato</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="17.721519" cy="2.29787234" rx="2.27848101" ry="2.29787234"></ellipse>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="4.55696203" height="4.59574468" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03_Performance-Compara" transform="translate(-31.000000, -765.000000)" stroke="#5B5B5D">
+            <g id="Contain" transform="translate(10.000000, 324.000000)">
+                <g id="Injury" transform="translate(0.000000, 374.000000)">
+                    <g id="Group-4" transform="translate(10.000000, 10.000000)">
+                        <g id="3" transform="translate(0.000000, 50.000000)">
+                            <g id="PER_comp_silvato" transform="translate(12.500000, 7.500000)">
+                                <path d="M11.3924051,1.91489362 L11.3924051,4.08510638" id="Line" stroke-width="1.5" stroke-linecap="round"></path>
+                                <use id="Oval-16" mask="url(#mask-2)" stroke-width="3" xlink:href="#path-1"></use>
+                                <path d="M10.8824096,0.789190439 C11.0503661,0.773813966 11.2204758,0.765957447 11.3924051,0.765957447 C14.4684214,0.765957447 16.9620253,3.28078353 16.9620253,6.38297872 C16.9620253,9.48517391 14.4684214,12 11.3924051,12 C8.31638874,12 5.82278481,9.48517391 5.82278481,6.38297872 C5.82278481,5.46360164 6.04180118,4.59581393 6.43008566,3.82978723 L1.53904637,3.82978723 C0.689054532,3.82978723 0,3.1498241 0,2.29787234 C0,1.45181911 0.688156418,0.765957447 1.53904637,0.765957447 L10.6128524,0.765957447 C10.7048114,0.765957447 10.7948867,0.773916195 10.8824096,0.789190439 Z" id="Combined-Shape" stroke-width="1.5"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,38 @@
+@import 'colors.less';
+
+.nav-button {
+  color: @c_white;
+  display: inline-block;
+  font-size: 18px;
+  line-height: 40px;
+  margin: 20px;
+  position: relative;
+}
+
+.primary-button {
+  background-color: @c_reds_15;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 600;  
+  height: 56px;
+  line-height: 56px;
+  text-align: center;
+  text-transform: uppercase;
+  vertical-align: middle;
+  width: 300px;
+}
+
+.compare-button {
+  &:extend(.primary-button);
+}
+
+.search-button {
+  color: @c_grays_08;
+  display: inline-block;
+  font-size: 30px;
+  margin: 5px;
+  vertical-align: middle;
+  &:hover {
+    color: @c_reds_15;
+  }
+}

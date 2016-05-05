@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="361px" height="196px" viewBox="0 0 361 196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.1 (28215) - http://www.bohemiancoding.com/sketch -->
+    <title>DJ_delantero</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="14.8520116" y="16.0364973" width="329.219591" height="164.065703" rx="1.23287671"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="329.219591" height="164.065703" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="325.506588" y="69.080296" width="18.5650145" height="56.7445289" rx="1.23287671"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="18.5650145" height="56.7445289" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="340.3586" y="85.1167933" width="12.3766764" height="27.1386877" rx="1.23287671"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12.3766764" height="27.1386877" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="292.089562" y="37.0073015" width="51.9820407" height="122.124095" rx="1.23287671"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="51.9820407" height="122.124095" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="14.8520116" y="69.080296" width="18.5650145" height="56.7445289" rx="1.23287671"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="18.5650145" height="56.7445289" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="6.18833818" y="83.8832166" width="12.3766764" height="27.1386877" rx="1.23287671"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12.3766764" height="27.1386877" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <rect id="path-13" x="14.8520116" y="37.0073015" width="51.9820407" height="122.124095" rx="1.23287671"></rect>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="51.9820407" height="122.124095" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DJ_delantero" transform="translate(-1.000000, 0.000000)">
+            <g id="Cancha" transform="translate(181.462167, 98.204063) rotate(-180.000000) translate(-181.462167, -98.204063) translate(0.962167, 0.704063)">
+                <g id="inside" transform="translate(0.000000, 0.000000)">
+                    <rect id="Rectangle-370" fill="#86B529" x="-5.68434189e-13" y="9.9475983e-14" width="360.161282" height="194.905121" rx="6.16438356"></rect>
+                    <use id="Rectangle-371" stroke="#FBFBF9" mask="url(#mask-2)" stroke-width="7.39726027" xlink:href="#path-1"></use>
+                    <ellipse id="Oval-147" stroke="#FBFBF9" stroke-width="4.93150685" cx="179.461807" cy="97.4525605" rx="40.843032" ry="40.7080316"></ellipse>
+                    <ellipse id="Oval-148" fill="#FBFBF9" cx="180.080641" cy="96.8357721" rx="4.33183672" ry="4.3175185"></ellipse>
+                    <use id="Rectangle-372" stroke="#FBFBF9" mask="url(#mask-4)" stroke-width="7.39726027" xlink:href="#path-3"></use>
+                    <use id="Rectangle-372-Copy-2" stroke="#FBFBF9" mask="url(#mask-6)" stroke-width="7.39726027" transform="translate(346.546938, 98.686137) scale(-1, 1) translate(-346.546938, -98.686137) " xlink:href="#path-5"></use>
+                    <use id="Rectangle-372-Copy" stroke="#FBFBF9" mask="url(#mask-8)" stroke-width="7.39726027" xlink:href="#path-7"></use>
+                    <ellipse id="Oval-149" fill="#FBFBF9" cx="309.416909" cy="97.4525605" rx="2.47533527" ry="2.46715343"></ellipse>
+                    <use id="Rectangle-372-Copy-5" stroke="#FBFBF9" mask="url(#mask-10)" stroke-width="7.39726027" transform="translate(24.134519, 97.452560) scale(-1, 1) translate(-24.134519, -97.452560) " xlink:href="#path-9"></use>
+                    <use id="Rectangle-372-Copy-4" stroke="#FBFBF9" mask="url(#mask-12)" stroke-width="7.39726027" xlink:href="#path-11"></use>
+                    <use id="Rectangle-372-Copy-3" stroke="#FBFBF9" mask="url(#mask-14)" stroke-width="7.39726027" transform="translate(40.843032, 98.069349) scale(-1, 1) translate(-40.843032, -98.069349) " xlink:href="#path-13"></use>
+                    <ellipse id="Oval-149-Copy" fill="#FBFBF9" transform="translate(48.269038, 97.452560) scale(-1, 1) translate(-48.269038, -97.452560) " cx="48.2690378" cy="97.4525605" rx="2.47533527" ry="2.46715343"></ellipse>
+                    <path d="M180.080641,17.8868624 L180.080641,178.270809" id="Line" stroke="#FBFBF9" stroke-width="3.69863014" stroke-linecap="square"></path>
+                    <path d="M342.833941,167.774817 C342.691827,167.769245 342.549002,167.766433 342.405518,167.766433 C336.490221,167.766433 331.694926,172.545878 331.694926,178.441622 C331.694926,178.584632 331.697748,178.726986 331.703338,178.86863 L341.605307,178.86863 C342.282899,178.86863 342.833941,178.313387 342.833941,177.628459 L342.833941,167.774817 Z" id="Combined-Shape" stroke="#FBFBF9" stroke-width="2.46575342"></path>
+                    <path d="M342.833941,17.2784581 C342.691827,17.2728861 342.549002,17.270074 342.405518,17.270074 C336.490221,17.270074 331.694926,22.049519 331.694926,27.9452631 C331.694926,28.0882732 331.697748,28.2306265 331.703338,28.3722707 L341.605307,28.3722707 C342.282899,28.3722707 342.833941,27.8170274 342.833941,27.1321 L342.833941,17.2784581 Z" id="Combined-Shape" stroke="#FBFBF9" stroke-width="2.46575342" transform="translate(337.264434, 22.821172) rotate(-90.000000) translate(-337.264434, -22.821172) "></path>
+                    <path d="M27.2286942,17.2784581 C27.0865803,17.2728861 26.9437549,17.270074 26.8002706,17.270074 C20.8849743,17.270074 16.0896793,22.049519 16.0896793,27.9452631 C16.0896793,28.0882732 16.0925007,28.2306265 16.0980911,28.3722707 L26.0000601,28.3722707 C26.6776523,28.3722707 27.2286942,27.8170274 27.2286942,27.1321 L27.2286942,17.2784581 Z" id="Combined-Shape" stroke="#FBFBF9" stroke-width="2.46575342" transform="translate(21.659187, 22.821172) rotate(-180.000000) translate(-21.659187, -22.821172) "></path>
+                    <path d="M27.2286942,167.774817 C27.0865803,167.769245 26.9437549,167.766433 26.8002706,167.766433 C20.8849743,167.766433 16.0896793,172.545878 16.0896793,178.441622 C16.0896793,178.584632 16.0925007,178.726986 16.0980911,178.86863 L26.0000601,178.86863 C26.6776523,178.86863 27.2286942,178.313387 27.2286942,177.628459 L27.2286942,167.774817 Z" id="Combined-Shape" stroke="#FBFBF9" stroke-width="2.46575342" transform="translate(21.659187, 173.317532) rotate(-270.000000) translate(-21.659187, -173.317532) "></path>
+                    <path d="M64.9775509,75.2481796 C81.0672301,85.7335817 77.3542272,110.405116 64.9775509,117.189788" id="Path-1330" stroke="#FBFBF9" stroke-width="3.69863014"></path>
+                    <path d="M282.807055,76.4817563 C298.896734,86.9671584 295.183731,111.638693 282.807055,118.423365" id="Path-1330" stroke="#FBFBF9" stroke-width="3.69863014" transform="translate(288.167009, 97.452560) scale(-1, 1) translate(-288.167009, -97.452560) "></path>
+                </g>
+            </g>
+            <rect id="Rectangle-385" fill-opacity="0.790000021" fill="#FFFFFF" x="275.622134" y="15" width="71.5388848" height="165"></rect>
+        </g>
+    </g>
+</svg>

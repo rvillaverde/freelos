@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="39px" height="36px" viewBox="0 0 39 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.1 (28215) - http://www.bohemiancoding.com/sketch -->
+    <title>DJ_peso</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01_DatosJugador_Player" transform="translate(-786.000000, -413.000000)" stroke-width="2.25" stroke="#808080">
+            <g id="Ω-Copy" transform="translate(730.000000, 308.000000)">
+                <g id="Peso" transform="translate(58.000000, 107.000000)">
+                    <g id="DJ_peso">
+                        <path d="M31.7943612,0 L3.91730172,0 C1.75726833,0 0,1.80469956 0,4.0228575 L0,28.236503 C0,30.4548388 1.75726833,32.2593605 3.91730172,32.2593605 L31.7943612,32.2593605 C33.9543946,32.2593605 35.7116629,30.4546609 35.7116629,28.236503 L35.7116629,4.0228575 C35.7114897,1.80469956 33.9542213,0 31.7943612,0 L31.7943612,0 Z M12.956909,9.3912338 C12.4673545,9.3912338 12.0690935,8.98222313 12.0690935,8.47945489 L12.0690935,3.67611465 C12.0690935,3.17334642 12.4673545,2.76433574 12.956909,2.76433574 L22.7545807,2.76433574 C23.2441352,2.76433574 23.6423962,3.17334642 23.6423962,3.67611465 L23.6423962,8.47945489 C23.6423962,8.98222313 23.2441352,9.3912338 22.7545807,9.3912338 L12.956909,9.3912338 L12.956909,9.3912338 Z" id="Shape"></path>
+                        <path d="M17.625,11.2656904 L17.625,29.290795" id="Line" stroke-linecap="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

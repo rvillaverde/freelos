@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="38px" height="45px" viewBox="0 0 38 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.1 (28215) - http://www.bohemiancoding.com/sketch -->
+    <title>DJ_comp_valMarca</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04_Compara_Datos" transform="translate(-266.000000, -1096.000000)">
+            <g id="1er" transform="translate(10.000000, 308.000000)">
+                <g id="Ω-Copy" transform="translate(0.000000, 680.000000)">
+                    <g id="ValMarca" transform="translate(236.000000, 90.000000)">
+                        <g id="DJ_comp_valMarca" transform="translate(22.000000, 19.000000)">
+                            <path d="M9.91666667,0.477272727 L24.0833333,0.477272727" id="Line" stroke="#808080" stroke-width="2.85" stroke-linecap="round"></path>
+                            <path d="M12.75,1.90909091 L12.75,3.74640447" id="Line-Copy-13" stroke="#808080" stroke-width="2.85" stroke-linecap="round"></path>
+                            <path d="M21.25,1.90909091 L21.25,3.74640447" id="Line-Copy-14" stroke="#808080" stroke-width="2.85" stroke-linecap="round"></path>
+                            <rect id="Rectangle-11" stroke="#808080" stroke-width="2.85" x="0" y="4.77272727" width="34" height="37.006993" rx="2.375"></rect>
+                            <ellipse id="Oval-15" stroke="#808080" stroke-width="2.85" cx="10.1527778" cy="15.9886364" rx="3.54166667" ry="3.57954545"></ellipse>
+                            <path d="M11.8055556,30.0681818 L6.61111111,35.3181818" id="Line-Copy-13" stroke="#808080" stroke-width="2.85" stroke-linecap="round"></path>
+                            <path d="M11.8055556,35.3181818 L6.61111111,30.0681818" id="Line-Copy-15" stroke="#808080" stroke-width="2.85" stroke-linecap="round"></path>
+                            <path d="M17.4722222,32.4545455 C17.8201754,32.2840909 20.4298246,30.4090909 20.7777778,30.0681818" id="Path-48" stroke="#808080" stroke-width="2.85" stroke-linecap="round"></path>
+                            <path d="M22.5690639,26.558073 C22.9170171,26.3876184 25.5266663,24.5126184 25.8746195,24.1717094" id="Path-48-Copy" stroke="#808080" stroke-width="2.85" stroke-linecap="round" transform="translate(24.221842, 25.364891) rotate(-39.000000) translate(-24.221842, -25.364891) "></path>
+                            <path d="M22.877066,18.5123022 C23.2250192,18.3418476 25.8346683,16.4668476 26.1826215,16.1259385" id="Path-48-Copy-2" stroke="#808080" stroke-width="2.85" stroke-linecap="round" transform="translate(24.529844, 17.319120) rotate(-59.000000) translate(-24.529844, -17.319120) "></path>
+                            <path d="M22.2019661,10.234986 C22.6722356,9.60125384 23.4346101,9.60114195 23.9049626,10.234986 L27.5017268,15.0819623 C27.9719963,15.7156945 27.7219194,16.2294359 26.9237264,16.2294359 L19.1832023,16.2294359 C18.393712,16.2294359 18.1348494,15.7158064 18.6052019,15.0819623 L22.2019661,10.234986 Z" id="Triangle-3" fill="#808080" transform="translate(23.054438, 12.994540) rotate(-24.000000) translate(-23.054438, -12.994540) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
