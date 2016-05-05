@@ -1,0 +1,102 @@
+@import 'colors.less';
+
+.secondary-nav-wrapper {
+  height: 70px;
+  margin-top: 90px;
+  margin-bottom: 30px;
+  position: relative;
+}
+
+.secondary-nav-background-wrapper {
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.secondary-nav-background {
+  bottom: 0;
+  position: absolute;
+  right: 0;
+  transform: skewX(-40deg);
+  transform-origin: 0 0;
+  width: 100%;
+  z-index: -2;
+
+  .secondary-nav-background-1 {
+    background-color: @c_reds_17;
+    height: 30px;
+  }
+
+  .secondary-nav-background-2 {
+    background-color: @c_reds_15;
+    height: 10px;
+  }
+}
+
+.secondary-nav {
+  bottom: 10px;
+  display: flex;
+  justify-content: flex-end;
+  width: 50%;
+  height: 60px;
+  position: absolute;
+  right: 0;
+  z-index: 1;  
+}
+
+.secondary-nav-item {
+  box-sizing: border-box;
+  font-size: 20px;
+  font-weight: 200;
+  height: 100%;
+  padding: 20px;
+  position: relative;
+  text-align: center;
+  flex-grow: 1;
+
+  &.player-data {
+    .secondary-nav-item-background {
+      background-color: @c_grays_00;
+    }
+  }
+  &.performance {
+    .secondary-nav-item-background {
+      background-color: @c_grays_02;
+    }
+  }
+  &.contracts {
+    .secondary-nav-item-background {
+      background-color: @c_grays_01;
+    }
+  }
+  &.active {
+    color: @c_white;
+    font-weight: 700;
+    .secondary-nav-item-link {
+      color: @c_white;
+      &:visited {
+        color: @c_white;
+      }
+    }
+    .secondary-nav-item-background {
+      background-color: @c_reds_15;
+    }
+  }
+}
+
+.secondary-nav-item-link {
+  color: @c_grays_09;
+  &:visited {
+    color: @c_grays_09;
+  }
+}
+
+.secondary-nav-item-background {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: skewX(-40deg);
+  width: 100%;
+  z-index: -1;
+}
