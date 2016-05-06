@@ -45,16 +45,18 @@
 }
 
 .secondary-nav-item {
+  align-items: center;
   box-sizing: border-box;
+  display: flex;
   font-size: 20px;
   font-weight: 200;
   height: 100%;
-  padding: 20px;
+  justify-content: center;
   position: relative;
   text-align: center;
   flex-grow: 1;
 
-  &.player-data {
+  &.player-info {
     .secondary-nav-item-background {
       background-color: @c_grays_00;
     }
@@ -74,9 +76,6 @@
     font-weight: 700;
     .secondary-nav-item-link {
       color: @c_white;
-      &:visited {
-        color: @c_white;
-      }
     }
     .secondary-nav-item-background {
       background-color: @c_reds_15;
@@ -86,8 +85,8 @@
 
 .secondary-nav-item-link {
   color: @c_grays_09;
-  &:visited {
-    color: @c_grays_09;
+  &:hover {
+    color: @c_reds_15;
   }
 }
 

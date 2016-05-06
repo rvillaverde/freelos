@@ -11,6 +11,7 @@
 .navbar-content {
   box-sizing: border-box;
   display: flex;
+  justify-content: space-between;
   margin: auto;
   max-width: 1200px;
   padding-left: 207px;
@@ -19,7 +20,6 @@
 
 .logo {
   background-image: @logo;
-  flex-grow: 1;
   height: 188px;
   left: 0;
   position: absolute;
@@ -28,21 +28,17 @@
 }
 
 .main-nav {
-  align-items: center;
-  display: flex;
-  flex-grow: 5;
-
   .plantel-button {
-    &:extend(.nav-button);
+    &:extend(.nav-button all);
   }
   .escalas-button {
-    &:extend(.nav-button);
+    &:extend(.nav-button all);
   }    
 }
 
 .user-button {
-  &:extend(.nav-button);
+  &:extend(.nav-button all);
   font-size: 16px;
-  flex-grow: 1;
-  justify-content: flex-end;
+  align-self: flex-end;
+  margin-left: auto;
 }

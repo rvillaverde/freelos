@@ -1,0 +1,182 @@
+@import 'global.less';
+
+.player-info-wrapper {
+  display: flex;
+  flex-direction: row;
+  padding: 6px 50px;
+}
+
+.player-info-left-side {
+  box-sizing: border-box;
+  width: 50%;
+}
+
+.player-info-right-side {
+  box-sizing: border-box;
+  width: 50%;
+}
+
+.player-info-box {
+  &:extend(.box);
+
+  .player-personal-info-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 16px;
+  }
+
+  .player-number {
+    color: @c_white;
+    background-color: @c_reds_15;
+    font-size: 36px;
+    font-weight: 700;
+    border-radius: 50%;
+    padding: 6px;
+    margin: 6px;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    vertical-align: middle;
+  }
+
+  .player-personal-info {
+    margin-left: 12px;
+  }
+
+  .player-name-wrapper {
+
+  }
+
+  .player-lastname {
+    display: inline-block;
+    font-size: 30px;
+    font-weight: 700;
+  }
+
+  .player-fistname {
+    display: inline-block;
+    font-size: 24px;
+  }
+
+  .player-birth-info-wrapper {
+    margin-top: 4px;
+  }
+
+  .player-nationality {
+    display: inline-block;
+  }
+
+  .argentina {
+
+  }
+
+  .player-age {
+    display: inline-block;
+    font-size: 20px;
+  }
+
+  .player-birthdate {
+    display: inline-block;
+  }
+}
+
+.compare-button-box {
+  margin: 12px 6px;
+  text-align: right;
+}
+
+.player-technical-info-box {
+  &:extend(.box);
+  margin: 6px;
+  padding: 24px;
+  display: flex;
+  flex-grow: 1;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  .player-height {
+    order: 1;
+    flex-grow: 1;
+  }
+
+  .player-weight {
+    order: 2;
+    flex-grow: 1;
+  }
+
+  .player-orientation {
+    order: 3;
+    flex-grow: 1;
+  }
+
+  .player-mark {
+    order: 4;
+    flex-grow: 1;
+  }
+}
+
+.player-position-box {
+  &:extend(.box);
+}
+
+.player-medical-info-box {
+  &:extend(.box);
+}
+
+.player-photo-wrapper {
+  position: relative;
+  border: 1px solid @c_grays_03;
+  border-radius: 4px;
+  height: 400px;
+}
+
+.player-category {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  background-color: @c_reds_15;
+  color: @c_white;
+  text-transform: uppercase;
+  width: 108px;
+  font-weight: 600;
+  padding: 10px;
+}
+
+.player-photo {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: inherit;
+}
+
+.player-manager-box {
+    &:extend(.box);
+  align-items: center;
+  display: flex;
+  padding-left: 40px;
+}
+
+
+.player-manager-box-icon {
+  background-image: @manager-icon;
+  height: 38px;
+  width: 34px;
+}
+
+.player-manger-wrapper {
+  margin-left: 12px;
+}
+
+.player-manager-title {
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 20px;
+}
+
+.player-manager-name {
+  font-size: 20px;
+  font-weight: 300;
+}

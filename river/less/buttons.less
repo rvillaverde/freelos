@@ -3,14 +3,19 @@
 .nav-button {
   color: @c_white;
   display: inline-block;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 40px;
   margin: 20px;
   position: relative;
+
+  &:hover {
+    color: @c_reds_15;
+  }
 }
 
 .primary-button {
   background-color: @c_reds_15;
+  color: @c_white;
   display: inline-block;
   font-size: 20px;
   font-weight: 600;  
@@ -20,19 +25,33 @@
   text-transform: uppercase;
   vertical-align: middle;
   width: 300px;
+
+  &:hover {
+    background-color: @c_grays_09;
+  }
 }
 
 .compare-button {
-  &:extend(.primary-button);
+  &:extend(.primary-button all);
+}
+
+.naked-button {
+  display: inline-block;
+  &:hover {
+    color: @c_reds_15;
+  }  
 }
 
 .search-button {
+  &:extend(.naked-button all);
   color: @c_grays_08;
-  display: inline-block;
   font-size: 30px;
-  margin: 5px;
-  vertical-align: middle;
-  &:hover {
-    color: @c_reds_15;
-  }
+  margin: 6px;
+}
+
+.arrow-button {
+  &:extend(.naked-button all);
+  color: @c_grays_02;
+  font-size: 14px;
+  margin: 6px;
 }
